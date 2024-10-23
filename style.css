@@ -75,6 +75,7 @@ header {
 
 .user:hover {
   border: 2px solid #ffffff;
+   background-color: #ffffff;
 }
 
 .user .icon {
